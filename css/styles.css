@@ -19,7 +19,7 @@ body {
 
 h1 {
   font-size: 30px;
-  font-weight: var(--primany-font-weight);
+  font-weight: var(--primany-font-weight); 
 }
 
 h2 {
