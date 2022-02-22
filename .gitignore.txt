@@ -1,7 +1,9 @@
 
-Linter I worked with.txt
-browsers - Test.txt
-html w3c validators 1.png
-html w3c validators 2.png
-html w3c validators 3.png
-html w3c validators 4.png
+Linter-I-worked-with.txt
+browsers-Test.txt
+html-w3c-validators-1.png
+html-w3c-validators-2.png
+html-w3c-validators-3.png
+html-w3c-validators-4.png
+work.html-IE.png
+png-not-found-error-404.png

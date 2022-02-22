@@ -1,0 +1,10 @@
+
+
+  I had several issues with the brower testing
+ The browsers i was using are : Chrome, Mozilla firefox, IE, Safari.
+ 
+ first issue was my imgs (find me - footer) of Git and linkdin were not found, on all browsers
+ except on IE were found. (captured img: png not found error 404).
+ the code was written correctly and shows no errors but when opening the inspector it shows 2 errors of those 2 png images were not found.
+
+ second issue was that on IE browser, all the sections part were messed up (you can see on the capture imgs of : work.html IE) 
