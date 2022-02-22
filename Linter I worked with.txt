@@ -1,0 +1,3 @@
+
+atom-w3c-validation/leny
+atom-linter-stylelint
