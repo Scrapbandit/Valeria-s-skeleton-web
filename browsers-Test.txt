@@ -1,4 +1,5 @@
-
+ 
+       CROSS BROWSERS TESTS AND ISSUES SPECIFIED
 
   I had several issues with the brower testing
  The browsers i was using are : Chrome, Mozilla firefox, IE, Safari.
