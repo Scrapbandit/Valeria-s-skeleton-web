@@ -365,17 +365,13 @@ button:focus,
 
 .content {
   max-width: 700px;
-  margin: 0 auto;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  display: -webkit-box;
-  display: -ms-flexbox;
+  
+  padding: 10px;
   display: flex;
 }
 
 .table {
   max-width: 700px;
   margin: 0 auto;
+  width: 50%;
 }
