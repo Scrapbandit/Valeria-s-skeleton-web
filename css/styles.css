@@ -20,6 +20,7 @@ body {
 h1 {
   font-size: 30px;
   font-weight: var(--primany-font-weight);
+  text-align: center;
 }
 
 h2 {
@@ -115,6 +116,8 @@ button:hover, button:focus {
 }
 .grid__item {
   background-color: lightgray;
+  padding: 30px;
+  margin: 10px;
 }
 .grid {
   display: grid;
@@ -210,4 +213,30 @@ button:focus,
 }
 .cloud-back {
   animation: 34s cloud-move-reverse infinite alternate linear;
+}
+#contact-form {
+  max-width: 250px;
+  font-size: 16px;
+}
+.content {
+  max-width: 700px;
+  margin: 0 auto;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.berlin-illustration {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
 }
