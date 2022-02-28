@@ -365,7 +365,6 @@ button:focus,
 
 .content {
   max-width: 700px;
-  
   padding: 10px;
   display: flex;
 }
@@ -374,4 +373,7 @@ button:focus,
   max-width: 700px;
   margin: 0 auto;
   width: 50%;
+}
+.contact-details {
+  text-align: center;
 }
